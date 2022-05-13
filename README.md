@@ -1,3 +1,3 @@
-# ygjjjy
+# TypeScript Challenges
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/ygjjjy)
+Capturing what I learn from doing [these challenges.](https://github.com/type-challenges/type-challenges)
